@@ -1,5 +1,11 @@
 name: Sync ANIEF Ricorsi
 on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'sync.mjs'
+      - 'package.json'
+      - '.github/workflows/sync.yml'
   schedule:
     - cron: '17 */6 * * *'
   workflow_dispatch:
@@ -16,6 +22,9 @@ jobs:
       - run: npm install
       - run: npx playwright install --with-deps chromium
       - run: npm run sync
+      - name: Validate feed
+        run: |
+          node -e "const x=require('./ricorsi.json'); if(!Array.isArray(x.items)) process.exit(1); console.log('Ricorsi:',x.items.length)"
       - name: Publish feed
         run: |
           git config user.name "anief-ricorsi-bot"
