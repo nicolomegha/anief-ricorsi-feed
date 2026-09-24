@@ -1,0 +1,1 @@
+{"name":"anief-ricorsi-worker","private":true,"type":"module","scripts":{"sync":"node sync.mjs"},"dependencies":{"playwright":"^1.55.0"}}
