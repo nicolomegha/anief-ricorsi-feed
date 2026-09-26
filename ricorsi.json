@@ -1,7 +1,7 @@
 {
   "source": "https://anief.org/ricorsi",
   "discovery": "public search index",
-  "generated_at": "2026-09-26T11:23:32.267Z",
+  "generated_at": "2026-09-26T11:32:26.302Z",
   "count": 8,
   "items": [
     {
@@ -19,7 +19,7 @@
       "deadline": "",
       "verified_from": "Public school feed reproducing ANIEF link",
       "join_url": "https://anief.org/ricorsi3/ricorso?id=1477:ricorso-ata100",
-      "synced_at": "2026-09-26T11:23:32.259Z"
+      "synced_at": "2026-09-26T11:32:26.295Z"
     },
     {
       "id": "f95bc65d80fe04e39375c9fb42f1e5b3b79e2f4f",
@@ -36,7 +36,7 @@
       "deadline": "2026-05-19",
       "verified_from": "ANIEF Liguria public channel / official ANIEF link",
       "join_url": "https://anief.org/ricorsi3/ricorso?id=1472:ata-24-militare2026",
-      "synced_at": "2026-09-26T11:23:32.260Z"
+      "synced_at": "2026-09-26T11:32:26.295Z"
     },
     {
       "id": "3ab95ce2d85d5f59e58026132718cf99c7efe781",
@@ -53,7 +53,7 @@
       "deadline": "",
       "verified_from": "Orizzonte Scuola / ANIEF public link",
       "join_url": "https://anief.org/ricorsi3/ricorso?id=1459:certinf",
-      "synced_at": "2026-09-26T11:23:32.260Z"
+      "synced_at": "2026-09-26T11:32:26.295Z"
     },
     {
       "id": "c16e744ebd44029650da612f43db9d8f44b38068",
@@ -70,7 +70,7 @@
       "deadline": "",
       "verified_from": "Orizzonte Scuola / ANIEF public link",
       "join_url": "https://anief.org/ricorsi3/ricorso?id=1458:montagna-2026",
-      "synced_at": "2026-09-26T11:23:32.260Z"
+      "synced_at": "2026-09-26T11:32:26.295Z"
     },
     {
       "id": "2b903c0e2b9fe62a82c8c071c47839250365c7ed",
@@ -87,7 +87,7 @@
       "deadline": "",
       "verified_from": "Orizzonte Scuola / ANIEF public link",
       "join_url": "https://anief.org/ricorsi3/ricorso?id=1457:spec-esterogps2026",
-      "synced_at": "2026-09-26T11:23:32.260Z"
+      "synced_at": "2026-09-26T11:32:26.295Z"
     },
     {
       "id": "e30de17f7a9009d212ce91b4af4fa709eb9fef8e",
@@ -104,7 +104,7 @@
       "deadline": "",
       "verified_from": "Orizzonte Scuola / ANIEF public link",
       "join_url": "https://anief.org/ricorsi3/ricorso?id=1456:tabgps-tit-militare2026",
-      "synced_at": "2026-09-26T11:23:32.260Z"
+      "synced_at": "2026-09-26T11:32:26.295Z"
     },
     {
       "id": "d9e7ff40827d871a4a7658bcd80e290793b29059",
@@ -121,7 +121,7 @@
       "deadline": "",
       "verified_from": "Public school feed reproducing ANIEF link",
       "join_url": "https://anief.org/ricorsi3/ricorso?id=1435:tfrrec",
-      "synced_at": "2026-09-26T11:23:32.260Z"
+      "synced_at": "2026-09-26T11:32:26.295Z"
     },
     {
       "id": "2bab9b6b2ca71160b3fc11457ef1bc4d22b7842f",
@@ -138,7 +138,7 @@
       "deadline": "",
       "verified_from": "ANIEF Liguria public channel / official ANIEF link",
       "join_url": "https://anief.org/ricorsi3/ricorso?id=1413:gps-2024",
-      "synced_at": "2026-09-26T11:23:32.260Z"
+      "synced_at": "2026-09-26T11:32:26.295Z"
     }
   ]
 }
